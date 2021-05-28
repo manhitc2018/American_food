@@ -1,0 +1,52 @@
+h1, h2, h3, h4, h5, h6, input, button, textarea, select, p, blockquote, th, td, pre, address, li, dt, dd {
+  font-size: 150%;
+  -webkit-text-size-adjust: none; }
+
+header, section, footer, aside, nav, main, article, figure {
+  display: block; }
+
+a {
+  color: #56b0da; }
+
+a:not([target="_blank"]):hover, a:not([target="_blank"]):active {
+  color: #caa143;
+  text-decoration: none; }
+
+table {
+  width: 100%; }
+
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+p {
+  margin: 0 0 1.5em; }
+
+.section {
+  margin: 0 0 30px; }
+
+.section .section {
+  margin: 0 0 10px; }
+
+p, dd, td, th, li {
+  line-height: 2.15em; }
+
+img {
+  max-width: 100%;
+  vertical-align: bottom; }
+
+.image-l {
+  float: left;
+  margin: 0 16px 8px 0; }
+
+.image-r {
+  float: right;
+  margin: 0 0 8px 16px; }
+
+.bold {
+  font-weight: bold; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
